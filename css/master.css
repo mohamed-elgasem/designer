@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Start Navbar */
+.navbar-brand h4{
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+}
+.navbar-brand span{
+    color: #ff9f1a;
+
+}
+.navbar-nav{
+    margin-right: 400px;
+}
+.nav-link{
+    color: black;
+}
+.nav-item .active{
+    color: #ff9f1a;
+}
+.nav-link:hover{
+    color: #ff9f1a;
+}
+.media a{
+    color: black;
+    padding-left:15px;
+}
+.navbar-toggler {
+    color: #ff9f1a;
+}
+/* End Navbar */
+
+
+/* Start home  */
+.home{
+    width: 100%;
+    height: 100vh;
+}
+.main-btn{
+    background-color: #ff9f1a;
+    color: white;
+    padding: 0.5rem 1rem;
+    }
+    .main-btn:hover{
+    color: white;
+    }
+.text{
+    margin: 8rem 0 0 6rem;
+}
+.text h1{
+    font-size: 3rem;
+}
+.text span{
+    color: #ff9f1a;
+
+}
+/* End home  */
+
+/* Start About  */
+.media .active{
+    color: #ff9f1a;
+}
+.image img{
+    width: 800px;
+    height: 350px;
+}
+/* End About  */
+
+ /* Start Services  */
+.service .icon-holder{
+    height: 150px;
+    }
+    .service .icon-holder .icon{
+    left: 50%;
+    transform: translateX(-50%);
+    }
+    /* .service .feat h4{
+    color: #ff9f1a;
+    } */
+/* End Services  */
+
+/* Start Footer  */
+.footer{
+    background-color: gray;
+}
+.footer .media a{
+    color: black;
+}
+/* End Footer  */
+
+ .main-title h5 span{
+    color: #ff9f1a;
+ }
+
